@@ -1,0 +1,26 @@
+
+  .banner{
+    font-size: 20px;
+    padding: 200px 10px 10px 10px;
+    width:1400px auto;
+    height: 500px;
+    text-align: center;
+    -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    background: #31B3DA url(https://source.unsplash.com/user/erondu/1600x900) no-repeat center left;
+  }
+  .container{
+    width: center;
+    margin: 50px auto;
+    padding: 10px 300px;
+  }
+  .card-white {
+  background: white;
+  margin: 24px auto;
+  padding: 20px 80px;
+  }
+
+
+
+
+
